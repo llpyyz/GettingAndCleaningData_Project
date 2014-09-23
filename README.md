@@ -13,7 +13,7 @@ R Script to create tidy data set from raw data: run_analysis.r
 How R script run_analysis.r works:
 ----------------------------------
 
-###Note: I must apologize for a mistake I made on this assignment. As you will see, I produced a tidy data set with **more** information than was requested. The assignment called for finding just the average (mean) of all features involving either the mean or standard deviation of some measured variable; 66 features by my count. My tidy data set actually provides both the mean **and** the standard deviation of those 66 features. And so my process includes several extra steps beyond what was required.
+###Note: I must apologize for a mistake I made on this assignment. As you will see, I produced a tidy data set with MORE information than was requested. The assignment called for finding just the average (mean) of all features involving either the mean or standard deviation of the measured variable; 66 features by my count. My tidy data set actually provides both the mean AND the standard deviation of those 66 features. And so my process includes several extra steps beyond what was required.
 
 ###Assumes raw data downloaded from [this site](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
